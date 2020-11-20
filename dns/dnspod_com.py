@@ -10,4 +10,4 @@ from dns.dnspod import *
 
 API.SITE = "api.dnspod.com"
 API.DEFAULT = "default"
-API.TOKEN_PARAM = "user_token"
+API.TOKEN_PARAM = "login_token"
